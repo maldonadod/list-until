@@ -14,4 +14,4 @@ const DisplayerUntilList = (list, { max = 2 }) => {
     }
 }
 
-module.exports = DisplayerUntilList;
+export default DisplayerUntilList
